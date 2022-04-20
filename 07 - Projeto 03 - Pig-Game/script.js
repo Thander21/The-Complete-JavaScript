@@ -17,14 +17,14 @@ function startReset() {
   document.querySelector(`.player--1`).classList.add('player--active');
   btnHold.disabled = false;
   btnRollDice.disabled = false;
-  playerScore = [0, 80, 80];
+  playerScore = [0, 0, 0];
   currentScore = 0;
   imgDiceNumber.classList.add('hidden');
   document
     .querySelector(`.player--${activePlayer}`)
     .classList.remove('player--winner', 'name');
-  document.querySelector('#score--1').textContent = 80;
-  document.querySelector('#score--2').textContent = 80;
+  document.querySelector('#score--1').textContent = 0;
+  document.querySelector('#score--2').textContent = 0;
 }
 
 //atualizar placar
