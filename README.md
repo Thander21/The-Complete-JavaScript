@@ -15,10 +15,9 @@ Todo o curso (até o modulo 7 que me encontro no momento ) consegui acompanhar b
 Alguns poucos bônus de desafio não consegui executar o código, mas a solução que pensei de como fazer foi bem parecida da solução proposta, faltava apenas mais intimidade com o código.
 
 Projetos Criados do Modulo 07:
-
-- 01 - Guess-My-Number
-- 02 - Modal
-- 03 - Pig-Game
+[- 01 - Guess-My-Number](https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2001%20-%20Guess-My-Number)
+[- 02 - Modal](https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2002%20-%20%20Modal)
+[- 03 - Pig-Game](https://github.com/Thander21/The-Complete-JavaScript/tree/master/07%20-%20Projeto%2003%20-%20Pig-Game)
 
 Conteúdo do Curso:
 
