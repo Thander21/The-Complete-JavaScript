@@ -1,5 +1,7 @@
 ## Projeto de um Jogo para adivinhar o numero de 1 a 20
 
+<a href="https://thander21.github.io/TCJ-Guess-My-Number/" target="_blank">Teste o App no GitHub Pages</a>
+
 ![alt text](Print.png)
 
 **Projeto feito passo a passo**

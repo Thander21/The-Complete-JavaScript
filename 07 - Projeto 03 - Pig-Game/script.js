@@ -50,7 +50,7 @@ function changePlayerActive() {
 //clicar em rolldice
 btnRollDice.addEventListener('click', function () {
   const diceNumber = Math.trunc(Math.random() * 6) + 1;
-  imgDiceNumber.src = `dice-${diceNumber}.png`;
+  imgDiceNumber.src = `./img/dice-${diceNumber}.png`;
 
   //mostrar imagen
   if (imgDiceNumber.classList.contains('hidden')) {
